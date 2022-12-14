@@ -2,11 +2,5 @@
 /* Your CSS Code here. */
 #holder{
     display: flex;
-    flex-wrap: nowrap;
-    text-align: center;
-}
-
-#holder > div{
-    margin: 10px;
-    padding: 10px;
+    justify-content: space-evenly;
 }
